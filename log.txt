@@ -1,0 +1,4 @@
+2026-01-14T10:12:01 INFO NET Connection established
+2026-01-14T10:12:05 WARN DB Connection slow
+2026-01-14T10:12:10 ERROR NET Connection lost
+2026-01-14T10:12:15 INFO UI Button clicked
